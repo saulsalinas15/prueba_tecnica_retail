@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos cacheados de Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Rastreo local de MLflow (Base de datos y experimentos)
+mlruns/
+*.db
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
