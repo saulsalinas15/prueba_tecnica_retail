@@ -1,4 +1,4 @@
-# Retail Demand Forecasting — Production ML Pipeline
+# Predicción de Demanda en Retail — Pipeline de ML en Producción
 
 Sistema de respaldo predictivo diseñado para estimar la demanda diaria de mercancía a nivel tienda y categoría en Retail. La solución actúa como un **motor inercial de demanda** que mitiga la pérdida de visibilidad generada por fallas intermitentes en el sistema de punto de venta (POS).
 
